@@ -1,0 +1,18 @@
+.add-form {
+    margin-bottom: 40px;
+}
+
+.container-written-form {
+    max-width: 500px;
+    margin: 30px auto;
+    overflow: auto;
+    min-height: 100px;
+    border: 1px solid steelblue;
+    padding: 30px;
+    border-radius: 5px;
+}
+
+.error-message {
+    font-size: 20px;
+    color:red;
+}

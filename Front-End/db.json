@@ -1,0 +1,10 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "text": "Religion Assignment",
+      "day": "6th June 2021",
+      "reminder": true
+    }
+  ]
+}
